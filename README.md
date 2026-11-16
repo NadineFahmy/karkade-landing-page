@@ -2,7 +2,7 @@
 
 A responsive landing page for a fictional cold-brewed hibiscus drink brand. Built as a design and front-end sample.
 
-**Live demo:** [https://USERNAME.github.io/REPO-NAME/](https://nadinefahmy.github.io/karkade-landing-page/)
+**Live demo:** https://nadinefahmy.github.io/karkade-landing-page/
 
 ![Preview](preview.png)
 
